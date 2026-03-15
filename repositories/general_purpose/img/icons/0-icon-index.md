@@ -1,4 +1,5 @@
-!-- doc ver 1.0.0 -->
+<!-- doc ver 1.0.0 -->
 
 # INDEX
-'repositories/general_purpose/img/icon'
+
+`📂 repositories / general_purpose / img / icon`
